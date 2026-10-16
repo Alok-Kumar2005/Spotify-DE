@@ -1,0 +1,15 @@
+{
+	"name": "factoryazureprojectalok",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0fc42b2b-5341-4730-a57c-cda0e9f829be",
+		"tenantId": "c1951c56-fb21-45e0-b2f0-78b79f8319cf"
+	}
+}
